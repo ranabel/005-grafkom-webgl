@@ -8,12 +8,11 @@ Tugas Individu WebGL
 
 
 ## Screenshoot
-
+![alt text](image-1.png)
+maaf hitam :>
 
 ## Deployment
 
 [Repository](https://github.com/ranabel/005-grafkom-webgl) <br>
-[Deployment Vercel](https://005-grafkom-webgl.vercel.app/) <br>
-[Deployment Github IO](https://ranabel.github.io/005-grafkom-webgl/)  -> texture tidak muncul :)
 
  
