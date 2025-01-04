@@ -14,5 +14,6 @@ maaf hitam :>
 ## Deployment
 
 [Repository](https://github.com/ranabel/005-grafkom-webgl) <br>
+[Deploymeent](https://005-grafkom-webgl.vercel.app)
 
  
