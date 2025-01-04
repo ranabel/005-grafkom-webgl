@@ -9,7 +9,6 @@ Tugas Individu WebGL
 
 ## Screenshoot
 
-![alt text](image.png) maaf hitam :D
 
 ## Deployment
 
